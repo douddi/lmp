@@ -707,7 +707,7 @@ body,
 	margin: 0 1.5rem;
 	padding-left: 0;
 	padding-right: 0;
-	font-size: 1rem;
+	font-size: 1.3rem;
 	text-transform: uppercase;
 	font-weight: 400;
 	letter-spacing: 0.1rem;
@@ -3058,7 +3058,7 @@ blockquote.border{
 .clients-1 .client-name {
 	text-transform: uppercase;
 	font-weight: 700;
-	font-size: 1.2rem;
+	font-size: 1.6rem;
 	opacity: 1;
 }
 .clients-1 .counter{

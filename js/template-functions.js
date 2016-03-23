@@ -136,7 +136,7 @@ $( document ).ready( function(){
 	var mapContainer = ".map-container";
 	var mapIcon = ['images/assets/map-marker.png','images/assets/map-marker-2.png'];
 	var mapLocations = [[40.723301,-74.002988],[40.691052,-73.925457]];
-	var mapInfoContent = ['Downtown New York Office<br>44 St. West 32','The Brooklyn Office<br>East Village 55th St.'];
+	var mapInfoContent = ['', "111 avenue de Paris<br/>94160 Saint Mandé", "24 rue de Chartres<br/>92200 Neuilly Sur Seine", "203 avenue Charles de Gaulle<br/>92200 Neuilly sur Seine", "233 avenue Daumesnil<br/>75012 Paris", "88 rue Lecourbe<br/>75015 Paris", "62 rue Paul Vaillant Couturier<br/>95100 Argenteuil"];
 	var mapIconW = 45; // Half of actual width
 	var mapIconH = 53; // Half of actual height
 	var mapZoomLevel = 12;
