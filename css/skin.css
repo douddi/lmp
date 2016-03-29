@@ -46,7 +46,7 @@ body{
 	font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
 	letter-spacing: 0;
 	font-weight: 400;
-	font-size: 1.4rem;
+	font-size: 1.5rem;
 	line-height: 1.8;
 	color: #666;
 }
@@ -728,9 +728,9 @@ body,
 	margin: 0 1.5rem;
 	padding-left: 0;
 	padding-right: 0;
-	font-size: 1.3rem;
+	font-size: 1.6rem;
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 600;
 	letter-spacing: 0.1rem;
 }
 
@@ -751,7 +751,7 @@ body,
 /* Transparent Header Initial, Hover & Current Nav Colors */
 .header-transparent .navigation > ul > li > a{
 	color: #fff;
-	opacity: 0.6;
+	opacity: 0.9;
 }
 .header-transparent .navigation > ul > li > a:hover{
 	color: #fff;
@@ -2715,7 +2715,7 @@ textarea.required-field{
 	font-style: normal;
 }
 .footer-top a:not(.button){
-	font-size: 1.3rem;
+	font-size: 1.6rem;
 	color: #666;
 }
 .footer-bottom a{
