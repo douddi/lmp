@@ -778,8 +778,8 @@ body,
 .navigation .mega-sub-menu ul li a,
 .navigation .dropdown-list li a{
 	line-height: 1.6;
-	font-weight: 400;
-	font-size: 1.2rem;
+	font-weight: 600;
+	font-size: 1.4rem;
 	color: #888;
 }
 .navigation .sub-menu:not(.custom-content) li a,
